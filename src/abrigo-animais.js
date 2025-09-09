@@ -1,4 +1,3 @@
-// src/abrigo-animais.js
 
 const ANIMAIS = {
   Rex: { tipo: "cão", brinquedos: ["RATO", "BOLA"] },
